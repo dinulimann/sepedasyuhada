@@ -195,8 +195,6 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 ### Styling
 Edit file di `app/globals.css` dan `tailwind.config.ts` untuk custom styling.
 
-## Deployment
-
 ### Deploy ke Vercel
 
 1. Push code ke GitHub
