@@ -192,7 +192,7 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 1. Via Prisma Studio
 2. Via API POST ke `/api/articles`
 
-### Styling
+### Style
 Edit file di `app/globals.css` dan `tailwind.config.ts` untuk custom styling.
 
 ### Deploy ke Vercel
