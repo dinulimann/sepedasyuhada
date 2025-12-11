@@ -193,9 +193,6 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 2. Via API POST ke `/api/articles`
 
 
-
-### Deploy ke Vercel
-
 1. Push code ke GitHub
 2. Import project di Vercel
 3. Set environment variables di Vercel
