@@ -201,8 +201,6 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 Gunakan managed PostgreSQL:
 - Supabase
 - Railway
-- Neon
-- PlanetScale
 
 ## Contributing
 
