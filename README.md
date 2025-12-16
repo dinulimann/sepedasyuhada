@@ -198,9 +198,7 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 3. Set environment variables di Vercel
 4. Deploy
 
-Gunakan managed PostgreSQL:
-- Supabase
-- Railway
+
 
 ## Contributing
 
