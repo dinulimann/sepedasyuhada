@@ -116,7 +116,7 @@ export default async function ProdukPage({
             <div className="text-6xl mb-4">🔍</div>
             <h3 className="text-2xl font-semibold mb-2">Produk tidak ditemukan</h3>
             <p className="text-gray-600 mb-6">
-              Maaf, tidak ada produk yang sesuai dengan pencarian Anda
+              Maaf, tidak ada produk yang sesuai dengan pencarian Anda. Mohon cari yang lain
             </p>
             <a href="/produk" className="btn-primary inline-block">
               Lihat Semua Produk
