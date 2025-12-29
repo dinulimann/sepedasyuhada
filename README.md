@@ -198,18 +198,3 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 3. Set environment variables di Vercel
 4. Deploy
 
-
-
-## Contributing
-
-Kontribusi selalu diterima! Silakan buat Pull Request.
-
-## License
-
-ISC
-
-## Support
-
-Untuk pertanyaan dan support, hubungi:
-- Email: info@tokosyuhada.com
-- WhatsApp: +62 812-3456-7890
