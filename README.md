@@ -192,9 +192,3 @@ Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, arti
 1. Via Prisma Studio
 2. Via API POST ke `/api/articles`
 
-
-1. Push code ke GitHub
-2. Import project di Vercel
-3. Set environment variables di Vercel
-4. Deploy
-
