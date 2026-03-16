@@ -12,8 +12,6 @@ export default async function ProdukPage({
   searchParams: SearchParams;
 }) {
   const { kategori, search } = searchParams;
-
-  // Build filter conditions
   const where: any = {};
 
   if (kategori) {
