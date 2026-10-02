@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-const inter = Inter({ subsets: ["latin"] });
+const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
   title: "Toko Syuhada - Toko Sepeda Terpercaya",
@@ -19,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="id">
-      <body className={inter.className}>
+      <body className={`${jakarta.variable} font-sans`}>
         <Navbar />
         <main className="min-h-screen">
           {children}
