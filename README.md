@@ -2,6 +2,20 @@
 
 Website penjualan dan informasi seputar sepeda dengan fitur katalog produk, artikel, dan informasi lengkap.
 
+## Overview (English)
+
+Website for a bicycle shop: product catalog, articles and contact, built with **Next.js 16 (App Router)**, **TypeScript**, **Prisma** and **PostgreSQL**, styled with **Tailwind CSS**.
+
+- **Catalog:** categories (MTB, road, hybrid, BMX), search, filters and a detail page with full specs (frame, wheels, gears…), price, stock and a WhatsApp enquiry button.
+- **Content:** articles and maintenance tips with tags, about and contact pages.
+- **REST API:** CRUD for products, categories and articles.
+- The shop address, phone and WhatsApp numbers in the code are placeholders.
+
+Setup instructions below are in Indonesian.
+
+---
+
+
 ## Tech Stack
 
 - **Framework**: Next.js 16 (App Router)
